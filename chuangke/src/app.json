@@ -1,0 +1,19 @@
+{
+  "pages": [
+  
+    "pages/index/main",
+    "pages/form/main",
+    "pages/fontStart/main",
+    "pages/fontEnd/main",
+    "pages/market/main",
+    "pages/art/main"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "创客空间",
+    "navigationBarTextStyle": "black"
+  }
+  
+}
